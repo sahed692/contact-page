@@ -196,7 +196,7 @@ h5 {
     font-size: 10px;
   }
 }
-@media screen and (max-width: 426px) {
+@media screen and (max-width: 429px) {
   .main_menu ul li a {
     color: #fff;
     padding: 0 7px;
